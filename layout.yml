@@ -5,3 +5,11 @@ background:
   height: 585
   fill_color: purple_400
   stroke_width: 0
+number_label_bg:
+  radius: 38
+  stroke_width: 0
+energy_label_bg:
+  extends: number_label_bg
+  x: 43
+  y: 43
+  fill_color: purple_100
