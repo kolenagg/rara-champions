@@ -3,5 +3,5 @@ background:
   y: 0
   width: 409
   height: 585
-  fill_color: '#8C82E8'
+  fill_color: purple_400
   stroke_width: 0
